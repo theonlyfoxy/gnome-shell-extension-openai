@@ -83,8 +83,16 @@ The Extension was tested on:
 
 - Ubuntu 22.04, X11, GNOME Shell 42.5
 - Ubuntu 23.04, Wayland, GNOME Shell 43.2
+- Fedora 38, Wayland, Gnome Shell 44
 
 Feel free to contribute if you found bugs or improved something.
+
+## TODO
+[] Add HotWord for Wake Up
+
+[] Voice Recognition for Interaction using Voice
+
+[] Other Interaction Methods...
 
 ## FAQ
 
