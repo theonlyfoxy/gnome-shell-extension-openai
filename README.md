@@ -35,7 +35,7 @@ branch.
 Clone this repository:
 
 ```bash
-git clone https://github.com/metix/gnome-shell-extension-openai && cd gnome-shell-extension-openai
+git clone https://github.com/theonlyfoxy/gnome-shell-extension-openai && cd gnome-shell-extension-openai
 ```
 
 Install the extension:
