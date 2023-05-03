@@ -1,7 +1,8 @@
 {
     "shell-version": [
         "42",
-        "43"
+        "43",
+        "44"
     ],
     "uuid": "openai-gnome@etixsoftware.de",
     "name": "ChatGPT / OpenAI for Gnome",
